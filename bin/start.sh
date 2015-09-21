@@ -5,7 +5,7 @@ cd "$(dirname $0)/.."
 
 source .env
 
-IMAGE_NAME="eguldenfoundation/egulden-electrum"
+IMAGE_NAME="eguldenfoundation/egulden-electrum-docker"
 CONTAINER_NAME="egulden-electrum"
 EGULDEND_NODE_CONTAINER_NAME="eguldend"
 
