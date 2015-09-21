@@ -2,4 +2,4 @@
 
 cd "$(dirname $0)/.."
 
-docker build --rm -t eguldenfoundation/egulden-electrum .
+docker build --rm -t eguldenfoundation/egulden-electrum-docker .
